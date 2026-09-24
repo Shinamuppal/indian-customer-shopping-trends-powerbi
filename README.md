@@ -2,9 +2,9 @@ Customer Shopping Trends — India | Power BI Analysis
 
 Power BI project analyzing Indian retail customer segments using star schema modeling and DAX
 
-**Business Question
+Business Question
 
-**> **Which customer segments and cities are driving the most revenue for the Indian retail business, and where is the company losing money through discounts and returns?**
+Which customer segments and cities are driving the most revenue for the Indian retail business, and where is the company losing money through discounts and returns?**
 This project analyzes 10,000 transactions from an Indian e-commerce/retail dataset to identify high-value customer segments, top-performing cities, and areas of revenue leakage — the kind of analysis a retail or consulting team would run before a marketing budget or inventory decision.
 
 ---
